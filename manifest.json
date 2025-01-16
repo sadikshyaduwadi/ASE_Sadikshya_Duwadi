@@ -1,0 +1,228 @@
+{
+  "source_base_path": "C:/Users/Sadikshya Duwadi/Desktop/ase_proj/WinFormsApp1",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.AppWrite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.AppWrite.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.CanvasException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.CanvasException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.CommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.CommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.PenColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.PenColour.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1Test.Drawtest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1Test.Drawtest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1Test.MoveTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1Test.MoveTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1Test.MultiLineTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1Test.MultiLineTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WinFormsApp1Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WinFormsApp1Test.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WindowsFormApp1Test.Test1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WindowsFormApp1Test.Test1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/WindowsFormApp1Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WindowsFormApp1Test.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
